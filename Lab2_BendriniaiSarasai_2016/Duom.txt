@@ -1,0 +1,5 @@
+mew bow cake 1994 20 10000
+mew aow cake 1996 20 10
+mew bow cake 1995 20 1000
+mew cow cake 1994 20 10000
+mew cow cake 1993 20 10000
